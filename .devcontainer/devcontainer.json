@@ -15,6 +15,7 @@
 
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
+    "shardulm94.trailing-spaces",
     "mhutchie.git-graph",
     "donjayamanne.git-extension-pack",
     "yzhang.markdown-all-in-one",
